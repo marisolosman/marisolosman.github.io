@@ -21,7 +21,7 @@ Work experience
   * Project: Sub-seasonal Predictionfor the Energy Secto. In collaboration with AXPO Solutions AG, Baden, Switzerland.
   * Supervisor: Christian M. Grams
   
-* November 2022 - Present: Adjoint Researcher (on leave)
+* November 2022 - Present: Associate Researcher (on leave)
   * Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET)
   * Project: Impacts of the dynamics of the Southern Annular Mode and its combined influence with ENSO on the South America Climate and its predictability.
   
