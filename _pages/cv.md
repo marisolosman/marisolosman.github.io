@@ -18,7 +18,7 @@ Work experience
 ======
 * Sep 2021- Present: Postdoctoral Research
   * Karlsruhe Institute of Technology
-  * Project: Sub-seasonal Predictionfor the Energy Secto. In collaboration with AXPO Solutions AG, Baden, Switzerland.
+  * Project: Sub-seasonal Predictionfor the Energy Sector. In collaboration with AXPO Solutions AG, Baden, Switzerland.
   * Supervisor: Christian M. Grams
   
 * November 2022 - Present: Associate Researcher (on leave)
