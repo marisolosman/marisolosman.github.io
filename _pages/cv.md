@@ -16,34 +16,12 @@ Education
 
 Work experience
 ======
-* Sep 2021- Present: Postdoctoral Researcher
-  * Karlsruhe Institute of Technology
-  * Project: Sub-seasonal Predictionfor the Energy Sector. In collaboration with AXPO Solutions AG, Baden, Switzerland.
-  * Supervisor: Christian M. Grams
-  
-* November 2022 - Present: Associate Researcher (on leave)
-  * Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET)
-  * Project: Impacts of the dynamics of the Southern Annular Mode and its combined influence with ENSO on the South America Climate and its predictability.
-  
-* November 2018 - October 2022: Junior Researcher (on leave since September 2021)
-  * Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET)
-  * Project: Development of probabilistic seasonal forecasts for its operational use by the National Weather Service
-  * Supervisor: Carolina Vera
-
-* April 2018 - October 2018: Postdoctoral Researcher
-  * Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET)
-  * Project: Development of probabilistic seasonal forecasts for its operational use by the National Weather Service
-  * Supervisor: Carolina Vera
-
-* April 2012 - March 2017: Ph.D Student
-  * Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET)
-  * Project: Predictability and prediction on seasonal timescales over South America
-  * Supervisor: Carolina Vera
- 
-* November 2008 - March 2012: Undergraduate Student
-  * Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET)
-  * Project: CLARIS-LPB
-  * Supervisor: Carolina Vera
+* Sep 2021- Present: Postdoctoral Researcher. Karlsruhe Institute of Technology. Project: Sub-seasonal Predictionfor the Energy Sector. In collaboration with AXPO Solutions AG, Baden, Switzerland. Supervisor: Christian M. Grams.
+* November 2022 - Present: Associate Researcher (on leave). Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: Impacts of the dynamics of the Southern Annular Mode and its combined influence with ENSO on the South America Climate and its predictability.
+* November 2018 - October 2022: Junior Researcher (on leave since September 2021). Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: Development of probabilistic seasonal forecasts for its operational use by the National Weather Service. Supervisor: Carolina Vera.
+* April 2018 - October 2018: Postdoctoral Researcher. Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: Development of probabilistic seasonal forecasts for its operational use by the National Weather Service. Supervisor: Carolina Vera.
+* April 2012 - March 2017: Ph.D Student. Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: Predictability and prediction on seasonal timescales over South America. Supervisor: Carolina Vera.
+* November 2008 - March 2012: Undergraduate Student. Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: CLARIS-LPB. Supervisor: Carolina Vera.
   
 Research Interests
 ======
