@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in Atmospheric Sciences, Universidad de Buenos Aires, 2012
+* Ph.D in Atmospheric and Ocean Sciences, Universidad de Buenos Aires, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2021- Present: Postdoctoral Research
+  * Karlsruhe Institute of Technology
+  * Project: Sub-seasonal Predictionfor the Energy Secto. In collaboration with AXPO Solutions AG, Baden, Switzerland.
+  * Supervisor: Christian M. Grams
   
-Skills
+* November 2022 - Present: Adjoint Researcher (on leave)
+  * Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET)
+  * Project: Impacts of the dynamics of the Southern Annular Mode and its combined influence with ENSO on the South America Climate and its predictability.
+  
+  
+* November 2018 - October 2022: Junior Researcher (on leave since September 2021)
+  * Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET)
+  * Project: Development of probabilistic seasonal forecasts for its operational use by the National Weather Service
+  * Supervisor: Carolina Vera
+  
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Climate variability on interannual timescales
+* Climate predictability and prediction on subseasonal to seasonal timescales
+* Application of climate forecasts by societal and economic sectors
 
 Publications
 ======
