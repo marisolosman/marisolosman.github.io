@@ -269,6 +269,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
+  jekyll (~> 3.5)
   jekyll-feed
   jekyll-include-cache
   jekyll-sitemap
