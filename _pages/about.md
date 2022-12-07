@@ -15,6 +15,7 @@ My research mainly focuses on variability, predictability and prediction skill o
 
 About me
 ======
+
 {: style="text-align: justify" }
 Coming from a town of farmers, I was always interested in how climate variability affects agricultural activity. During my Diploma and PhD, which I completed in Buenos Aires, Argentina, I worked on climate predictability and prediction on seasonal timescales over the Southern Hemisphere and South America. During my postdoc, I developed a probabilistic seasonal forecasting system for South America that is now used by the Argentinian Weather Service. As a researcher, I worked on interdisciplinary projects with anthropologists, economists as well as farmers to co-design and co-produce forecasting tools for the agricultural sector on subseasonal and seasonal timescales.
 
