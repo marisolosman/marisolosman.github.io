@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 Subseasonal Preditability of North Atlantic-European Weather Regimes and its applications in the energy sector
-======
+===========
 
 {: style="text-align: justify" }
 Weather regimes are quasi-stationary, recurring and persistent large-scale patterns which modulates the surface weather variability on daily to weekly timescales. Weather regimes can be a useful predictor in a range of applications, in particular, the energy sector. Understanding the predictability of weather regimes on subseasonal timescales can help anticipate the evolution of weather for days up to weeks ahead.
@@ -24,7 +24,7 @@ A summary of the preliminary results obtained can be found in my talk at [EMS an
 
 
 Climate variability in the Southern Hemisphere and South America
-======
+========
 {: style="text-align: justify" }
 
 {: style="text-align: justify" }
@@ -32,5 +32,5 @@ Climate variability in the Southern Hemisphere and South America
 {: style="text-align: justify" }
 
 Subseasonal to Seasonal prediction in South America
-======
+========
 
