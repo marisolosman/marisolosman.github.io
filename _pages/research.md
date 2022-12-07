@@ -4,7 +4,6 @@ permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /research/
   - /research.html
 ---
 Subseasonal Preditability of North Atlantic-European Weather Regimes and its applications in the energy sector
