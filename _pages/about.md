@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me "
+%title: "About me "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,9 +11,11 @@ Welcome to my website. I am a Postdoctoral Research Scientist in the Department 
 
 My research mainly focuses on variability, predictability and prediction skill on subseasonal and seasonal timescales, including the applications of forecasts products into different economic sectors, such as agriculture and energy and the development of forecasts tools.
 
+About me
+======
 Coming from a town of farmers, I was always interested in how climate variability affects agricultural activity. During my Diploma and PhD, which I completed in Buenos Aires, Argentina, I worked on climate predictability and prediction on seasonal timescales over the Southern Hemisphere and South America. During my postdoc, I developed a probabilistic seasonal forecasting system for South America that is now used by the Argentinian Weather Service. As a researcher, I worked on interdisciplinary projects with anthropologists, economists as well as farmers to co-design and co-produce forecasting tools for the agricultural sector on subseasonal and seasonal timescales.
 
-Now at KIT we will study the predictability of different variables relevant for the energy sector on weather and subseasonal timescales. The project is run in collaboration with AXPO solutions.
+Now at KIT I am studying the predictability of different variables relevant for the energy sector on weather and subseasonal timescales. The project is run in collaboration with AXPO solutions.
 
 A data-driven personal website
 ======
