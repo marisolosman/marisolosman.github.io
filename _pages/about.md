@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+<style>body {text-align: justify}</style>
 ---
 Welcome to my website. I am a Postdoctoral Research Scientist in the Department of Troposphere Research-Institute of Meteorology and Climate at Karlsruhe Institute of Technology in Germany.I am also Associate Researcher at Centro de Investigaciones del Mar y la Atmósfera in Buenos Aires, Argentina. I  hold PhD and Diploma degrees from the Department of Meteorology at the University of Buenos Aires.
 
