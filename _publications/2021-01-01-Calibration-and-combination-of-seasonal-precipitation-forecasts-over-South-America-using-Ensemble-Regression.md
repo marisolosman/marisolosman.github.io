@@ -7,4 +7,3 @@ venue: 'Climate Dynamics'
 paperurl: 'https://link.springer.com/article/10.1007/s00382-021-05845-2'
 citation: ' M. Osman,  C.A.S. Coelho,  C.S. Vera, &quot;Calibration and combination of seasonal precipitation forecasts over South America using Ensemble Regression.&quot; Climate Dynamics, 2021.'
 ---
-[Access paper here](https://link.springer.com/article/10.1007/s00382-021-05845-2){:target="_blank"}

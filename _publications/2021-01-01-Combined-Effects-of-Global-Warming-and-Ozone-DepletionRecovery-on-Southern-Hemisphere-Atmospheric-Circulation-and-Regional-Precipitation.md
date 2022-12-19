@@ -7,4 +7,3 @@ venue: 'Geophysical Research Letters'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL092568'
 citation: ' J. Mindlin,  T.G. Shepherd,  C. Vera,  M. Osman, &quot;Combined Effects of Global Warming and Ozone Depletion/Recovery on Southern Hemisphere Atmospheric Circulation and Regional Precipitation.&quot; Geophysical Research Letters, 2021.'
 ---
-[Access paper here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL092568){:target="_blank"}
