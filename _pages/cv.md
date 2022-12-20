@@ -32,7 +32,7 @@ Check the [publications](https://marisolosman.github.io/publications/) for more 
 
 ## Book Chapters
 
-Ruiz, J., Aldeco L., Diehl A., García Skabar Y., Matsudo C., Osman M., Peloroso L., Saulo. C., Vera C. Cap 37: Aplicaciones en Argentina. Física del Caos en la Predicción Meteorológica. Ed. Carlos Santos Burguete. Agencia Estatal de Meteorología de España. DOI: 10.31978/014-18-009-X.[URL](http://www.aemet.es/es/conocermas/recursos_en_linea/publicaciones_y_estudios/publicaciones/detalles/Fisica_del_caos_en_la_predicc_meteo)
+- Ruiz, J., Aldeco L., Diehl A., García Skabar Y., Matsudo C., Osman M., Peloroso L., Saulo. C., Vera C. Cap 37: Aplicaciones en Argentina. Física del Caos en la Predicción Meteorológica. Ed. Carlos Santos Burguete. Agencia Estatal de Meteorología de España. DOI: 10.31978/014-18-009-X.[URL](http://www.aemet.es/es/conocermas/recursos_en_linea/publicaciones_y_estudios/publicaciones/detalles/Fisica_del_caos_en_la_predicc_meteo)
 
 ## Technical Reports
 
@@ -48,7 +48,7 @@ Please check the [talks](https://marisolosman.github.io/talks/) section for more
 
 I have been working as an Assistant at the University of Buenos Aires since 2012. All the positions were obtained by open and competitive selection processes. Check the [teaching](https://marisolosman.github.io/talks/) section for more details
 
-#### Lecturer in short courses (by invitation)
+### Lecturer in short courses (by invitation)
 
 - Lecturer in the “South American School on Predictability and Prediction on Subseasonal Timescales” organized by the WMO. Paraguay 10/07/2017 al 14/07/2017.
 
@@ -65,11 +65,11 @@ I have been working as an Assistant at the University of Buenos Aires since 2012
 
 ### Current Projects
 
-Impact of the Southern Annular Mode dynamics and its joint influence with other large-scale climate patterns in the South American Climate. PI: Marisol Osman. 
+- Impact of the Southern Annular Mode dynamics and its joint influence with other large-scale climate patterns in the South American Climate. PI: Marisol Osman. 
 
-Interactions between multiple large-scale climate patterns and their impacts in South American Climate. Institution: University of Buenos Aires. PI: Carolina Vera
+- Interactions between multiple large-scale climate patterns and their impacts in South American Climate. Institution: University of Buenos Aires. PI: Carolina Vera
 
-CLIMAX (Climate Services Through Knowledge Co-Production: A Euro-South American Initiative for Strengthening Societal Adaptation Response to Extreme Events). PI: Carolina Vera. 
+- CLIMAX (Climate Services Through Knowledge Co-Production: A Euro-South American Initiative for Strengthening Societal Adaptation Response to Extreme Events). PI: Carolina Vera. 
 
 ### Past Projects
 
@@ -83,23 +83,23 @@ I signed an agreement with the Argentine Meteorological Service to implement the
 
 ## Experience as Reviewer
 
-Guest Editor Special Issue on "Subseasonal to Decadal Predictions in support of Climate Services". Climate Services Journal. March 2021 - present.
+- Guest Editor Special Issue on "Subseasonal to Decadal Predictions in support of Climate Services". Climate Services Journal. March 2021 - present.
 
-Member of the Editorial Board of the Journal of the Southern Hemisphere Earth System Sciences. July 2021 - present.
+- Member of the Editorial Board of the Journal of the Southern Hemisphere Earth System Sciences. July 2021 - present.
 
-Revision of articles submitted to Journal of Climate, Tellus, Meteorological Applications, Climate Dynamics, Advanced in Science and Research, International Journal of Climatology, Revista Brasileira de Meteorologia and Meteorológica.
+- Revision of articles submitted to Journal of Climate, Tellus, Meteorological Applications, Climate Dynamics, Advanced in Science and Research, International Journal of Climatology, Revista Brasileira de Meteorologia and Meteorológica.
 
-Reviewer of the First Order Draft and Second Order Draft of the IPCC WGI AR6.
+- Reviewer of the First Order Draft and Second Order Draft of the IPCC WGI AR6.
 
 ## Other Activities
 
-Joint Monthly Climate Briefings: In collaboration with the Argentina National Weather Service (SMN) the Department of Atmospheric and Ocean Science (DCAO) and CIMA I co-organize the joint  CIMA-DCAO-SMN monthly climate briefing to present and discuss with the academic and operational weather and climate community the past climate conditions responsible for the climate anomalies observed in Argentina and South America. I participate and co-organize this activity since August 2011.
+- Joint Monthly Climate Briefings: In collaboration with the Argentina National Weather Service (SMN) the Department of Atmospheric and Ocean Science (DCAO) and CIMA I co-organize the joint  CIMA-DCAO-SMN monthly climate briefing to present and discuss with the academic and operational weather and climate community the past climate conditions responsible for the climate anomalies observed in Argentina and South America. I participate and co-organize this activity since August 2011.
 
-Member of the Executive Committee of [YESS](http://yess-community.org) (Young Earth System Scientist) community. YESS, the Young Earth System Scientists community, is an interdisciplinary early career scientists network. YESS community unifies international and multidisciplinary early career scientists in a powerful network, providing a voice and leverage for a better future to serve society. As an Executive Committee member I’m  responsible for maintaining and guiding YESS activities and working groups.
+- Member of the Executive Committee of [YESS](http://yess-community.org) (Young Earth System Scientist) community. YESS, the Young Earth System Scientists community, is an interdisciplinary early career scientists network. YESS community unifies international and multidisciplinary early career scientists in a powerful network, providing a voice and leverage for a better future to serve society. As an Executive Committee member I’m  responsible for maintaining and guiding YESS activities and working groups.
 
-I have co-organized 2 international workshops for ECRs in the past 3 years.
+- I have co-organized 2 international workshops for ECRs in the past 3 years.
 
-I made short visits to the NOAA Climate Prediction Center, Australian Bureau of Meteorology, MeteoFrance and CPTEC to learn about the forecast tools and practices in those institutions.
+- I made short visits to the NOAA Climate Prediction Center, Australian Bureau of Meteorology, MeteoFrance and CPTEC to learn about the forecast tools and practices in those institutions.
 
-Academic Visitor at the University of Reading. Supervisor: Ted Shepherd. From April to June of 2019.
+- Academic Visitor at the University of Reading. Supervisor: Ted Shepherd. From April to June of 2019.
 
