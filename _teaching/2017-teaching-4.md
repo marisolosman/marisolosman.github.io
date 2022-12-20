@@ -10,7 +10,7 @@ location: "Buenos Aires, Argentina"
 
 Permanent position obtained by open and competitive selection processes. Resigned after 6 months
 
-Subjects
+Courses
 ======
 
 * Synoptic and dynamical meteorology

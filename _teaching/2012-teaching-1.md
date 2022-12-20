@@ -10,7 +10,7 @@ location: "Buenos Aires, Argentina"
 
 1-year position obtained by open and competitive selection processes.
 
-Subjects
+Courses
 ======
 
 * Atmospheric thermodynamics

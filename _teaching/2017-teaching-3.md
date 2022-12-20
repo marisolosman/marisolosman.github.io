@@ -10,7 +10,7 @@ location: "Buenos Aires, Argentina"
 
 3-year position obtained by open and competitive selection processes.
 
-Subjects
+Courses
 ======
 
 * Introduction to meteorology

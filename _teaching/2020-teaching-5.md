@@ -10,7 +10,7 @@ location: "Buenos Aires, Argentina"
 
 3-year position obtained by open and competitive selection processes. On leave since August 2021
 
-Subjects
+Courses
 ======
 
 * Programming tools for atmosphere sciences
