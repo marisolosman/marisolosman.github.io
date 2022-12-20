@@ -11,7 +11,7 @@ redirect_from:
 Welcome to my website. I am a [Postdoctoral Research Scientist in the Department of Troposphere Research](https://www.imk-tro.kit.edu/english/14_11275.php)-Institute of Meteorology and Climate at Karlsruhe Institute of Technology in Germany. I am also [Associate Researcher at Centro de Investigaciones del Mar y la Atmósfera](http://www.cima.fcen.uba.ar/personal.php?p=I) in Buenos Aires, Argentina. I  hold PhD and Diploma degrees from the Department of Meteorology at the University of Buenos Aires.
 
 {: style="text-align: justify" }
-My [research](https://marisolosman.github.io/research/) mainly focuses on variability, predictability and prediction skill on subseasonal and seasonal timescales, including the applications of forecasts products into different economic sectors, such as agriculture and energy and the development of forecasts tools.
+My [research](https://marisolosman.github.io/research/) mainly focuses on variability, predictability and prediction skill on subseasonal and seasonal timescales, including the applications of forecasts products in different economic sectors, such as agriculture and energy and the development of forecasts tools.
 
 About me
 ======
