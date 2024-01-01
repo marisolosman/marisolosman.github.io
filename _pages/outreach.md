@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-(updated Dec 2022)
+(updated Dec 2023)
 
 This page lists selected activities, interviews and articles where I have provided feedback to journalists.
 
