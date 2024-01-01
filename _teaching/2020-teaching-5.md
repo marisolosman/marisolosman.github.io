@@ -8,7 +8,7 @@ date: 2020-03-01
 location: "Buenos Aires, Argentina"
 ---
 
-3-year position obtained by open and competitive selection processes. On leave since August 2021
+3.5-year position obtained by open and competitive selection processes. On leave since August 2021
 
 Courses
 ======

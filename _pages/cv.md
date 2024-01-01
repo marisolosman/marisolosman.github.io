@@ -17,10 +17,9 @@ redirect_from:
 * Ph.D in Atmospheric and Ocean Sciences, Universidad de Buenos Aires, 2017
 
 ## Work experience
-
-* Sep 2021- Present: Postdoctoral Researcher. Karlsruhe Institute of Technology. Project: Sub-seasonal Predictionfor the Energy Sector. In collaboration with AXPO Solutions AG, Baden, Switzerland. Supervisor: Christian M. Grams.
-* November 2022 - Present: Associate Researcher (on leave). Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: Impacts of the dynamics of the Southern Annular Mode and its combined influence with ENSO on the South America Climate and its predictability.
-* November 2018 - October 2022: Junior Researcher (on leave since September 2021). Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: Development of probabilistic seasonal forecasts for its operational use by the National Weather Service. Supervisor: Carolina Vera.
+* November 2022 - Present: Associate Researcher. Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: Impacts of the dynamics of the Southern Annular Mode and its combined influence with ENSO on the South America Climate and its predictability.
+* Sep 2021- December 2023: Postdoctoral Researcher. Karlsruhe Institute of Technology. Project: Sub-seasonal Predictionfor the Energy Sector. In collaboration with AXPO Solutions AG, Baden, Switzerland. Supervisor: Christian M. Grams.
+* November 2018 - October 2022: Junior Researcher (on leave from September 2021 until November 2022). Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: Development of probabilistic seasonal forecasts for its operational use by the National Weather Service. Supervisor: Carolina Vera.
 * April 2017 - October 2018: Postdoctoral Researcher. Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: Development of probabilistic seasonal forecasts for its operational use by the National Weather Service. Supervisor: Carolina Vera.
 * April 2012 - March 2017: Ph.D Student. Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: Predictability and prediction on seasonal timescales over South America. Supervisor: Carolina Vera.
 * November 2008 - March 2012: Undergraduate Student. Centro de Investigaciones del Mar y la Atmósfera (UBA-CONICET). Project: CLARIS-LPB. Supervisor: Carolina Vera.
@@ -35,6 +34,8 @@ Check the [publications](https://marisolosman.github.io/publications/) for more 
 - Ruiz, J., Aldeco L., Diehl A., García Skabar Y., Matsudo C., Osman M., Peloroso L., Saulo. C., Vera C. Cap 37: Aplicaciones en Argentina. Física del Caos en la Predicción Meteorológica. Ed. Carlos Santos Burguete. Agencia Estatal de Meteorología de España. DOI: 10.31978/014-18-009-X.[URL](http://www.aemet.es/es/conocermas/recursos_en_linea/publicaciones_y_estudios/publicaciones/detalles/Fisica_del_caos_en_la_predicc_meteo)
 
 ## Technical Reports
+
+- Gustavo Naumann, and co-authors. "Extreme and long-term drought in the La Plata Basin: event evolution and impact assessment until September 2022".Publications Office of the European Union. 2023. ISBN 978-92-76-61614-6.
 
 - Osman Marisol, Alvarez MS. “Variabilidad climática intraestacional: más allá del Niño”. Boletín técnico del Programa Presupuestal por Resultados vol. 4 N° 8 de agosto de 2017. Instituto Geográfico de Perú.
 
@@ -60,20 +61,21 @@ I have been working as an Assistant at the University of Buenos Aires since 2012
 
 - Nahuel Gomez. Master Student at UBA. Thesis title: Dynamic of the Antarctic Sudden Stratospheric Warming in 2019 and its comparison with the 2002 event.
 
-## Projects
+- Lucía Castro. Master Student at UBA. Thesis title: Assessment of the forecast performance of weekly temperature anomalies during the warm season by the SubX models.
 
+## Projects
 
 ### Current Projects
 
-- Impact of the Southern Annular Mode dynamics and its joint influence with other large-scale climate patterns in the South American Climate. PI: Marisol Osman. 
+- The combined influence of large-scale climate patters in the development of high-impact climate events in Northeastern Argentina and its predictability. PI: Federico Robledo.
+
+- Assessment, predictability and prediction of the combined influence of large-scale climate patterns in the development of high impact climate events in the Paraguay River Basin. PI: Federico Robledo.
 
 - Interactions between multiple large-scale climate patterns and their impacts in South American Climate. Institution: University of Buenos Aires. PI: Carolina Vera
 
-- CLIMAX (Climate Services Through Knowledge Co-Production: A Euro-South American Initiative for Strengthening Societal Adaptation Response to Extreme Events). PI: Carolina Vera. 
-
 ### Past Projects
 
-I led 1 project funded by the University of Buenos Aires. I have participated as a PhD student in 4 projects funded by local and international institutions.
+I led 3 project funded by Argentine and international institutions. I have participated in many projects funded by local and international institutions.
 
 
 ## Cooperation Agreements
@@ -83,11 +85,12 @@ I signed an agreement with the Argentine Meteorological Service to implement the
 
 ## Experience as Reviewer
 
-- Guest Editor Special Issue on "Subseasonal to Decadal Predictions in support of Climate Services". Climate Services Journal. March 2021 - present.
-
 - Member of the Editorial Board of the Journal of the Southern Hemisphere Earth System Sciences. July 2021 - present.
 
-- Revision of articles submitted to Journal of Climate, Tellus, Meteorological Applications, Climate Dynamics, Advanced in Science and Research, International Journal of Climatology, Revista Brasileira de Meteorologia and Meteorológica.
+- Guest Editor Special Issue on "Subseasonal to Decadal Predictions in support of Climate Services". Climate Services Journal. March 2021 - January 2023.
+
+
+- Revision of articles submitted to Journal of Climate, Tellus, Meteorological Applications, Climate Dynamics, Advanced in Science and Research, International Journal of Climatology, Revista Brasileira de Meteorologia, Meteorológica, Quaterly Journal of the Royal Meteorological Society, Journal of Hydrometeorology, Meteorological Applications.
 
 - Reviewer of the First Order Draft and Second Order Draft of the IPCC WGI AR6.
 

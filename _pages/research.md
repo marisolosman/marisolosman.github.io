@@ -24,11 +24,12 @@ A summary of the preliminary results obtained can be found in my talk at [EMS an
 
 ## Climate variability in the Southern Hemisphere and South America
 
+## Subseasonal and Seasonal prediction in South America
 {: style="text-align: justify" }
+The development of regional climate services requires understanding the predictability and prediction skill of climate variability on different timescales. Sub-seasonal and Seasonal prediction ($\sim$10-30 days) has been a topic of great interest during the last decades, due to the need of multiple socioeconomic sectors for extended-range forecasts as skillful as those for the medium-range forecast horizon. Atmospheric predictability on subseasonal timescales is related to both the initial conditions and to the slowly evolving climate variations in the Earth System, such as the ocean or the sea-ice. On seasonal timescales, the variations in Earth System components are the dominant source of skill.
 
 {: style="text-align: justify" }
+During my PhD I studied the predictability of climate in South America on Seasonal timescales. In addition, I developed a calibrated and consolidated probabilistic seasonal forecasts for South America that is now implememted in the Argentinian Weather Service. I have also supervised students working on documenting the predictability on seasonal timescales by different coupled climate models.
 
 {: style="text-align: justify" }
-
-## Subseasonal to Seasonal prediction in South America
-
+In recent years, I have also studied the predictability of heat and cold waves on subseasonal timescales and I have collaborated in different studies addressing the predictability on subseasonal timescales.
