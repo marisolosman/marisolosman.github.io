@@ -8,7 +8,12 @@ date: 2017-03-01
 location: "Buenos Aires, Argentina"
 ---
 
-3-year position obtained by open and competitive selection processes.
+3-year position obtained by open and competitive selection processes. Since August 2023. On leave From August 2023 until March 2024. 
+
+3.5-year position obtained by open and competitive selection processes. March 2020-August 2023. On leave from August 2021 until August 2023.
+
+3-year position obtained by open and competitive selection processes. Until March 2020. 
+
 
 Courses
 ======
@@ -20,3 +25,7 @@ Courses
 * Programming tools for atmosphere sciences
 
 * Physics of climate
+
+* Atmospheric thermodynamics
+
+* Numerical modelling of the atmosphere
