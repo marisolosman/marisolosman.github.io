@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-(updated Dec 2023)
+(updated Dec 2024)
 
 This page lists selected activities, interviews and articles where I have provided feedback to journalists.
 
@@ -23,6 +23,10 @@ This page lists selected activities, interviews and articles where I have provid
 * Talk ["El mejor vino del mundo en el país de todos los climas: los desafíos del cambio climático y la viticultura"](https://www.youtube.com/watch?v=kgLLwYkIA2M) "Café de las Ciencias" organizado por el Ministerio de Ciencia, Tecnología e Innovación Productiva junto a la Embajada de Francia. 23 de julio de 2014, café del Polo Científico Tecnológico, Buenos Aires. 
 
 ## Interviews and media appearances
+
+* Interview at Fenómenos ["Pronóstico estacional"](https://youtu.be/wOD2tOk4NLI?si=SwVyMrP7j-EeCieb). September 2024.
+
+* Article ["La inteligencia artificial irrumple en la meteorología"](https://www.clarin.com/revista-n/podemos-predecir-cambio-climatico-inteligencia-artificial-irrumpe-metereologia_0_chsBY1dKhg.html?srsltid=AfmBOopZPgnf51EDwCAxBwav3SXYl8i5a7CDISWPm-ZaJ75Hv0iq9Q30). May 2024.
 
 * [La Niña se puede potenciar con la formación del dipolo del Océano Índico](https://www.agrositio.com.ar/canal-agrositio/30-online/217963-la-nina-se-puede-potenciar-con-la-formacion-del-dipolo-del-oceano-ndico-con-marisol-osman-climatologa) canal agrositio. July 30, 2021.
 

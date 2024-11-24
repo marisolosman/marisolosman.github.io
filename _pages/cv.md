@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(updated Dec 2023)
+(updated Dec 2024)
 
 ## Education
 
@@ -47,21 +47,31 @@ Please check the [talks](https://marisolosman.github.io/talks/) section for more
  
 ## Teaching
 
-I have been working as an Assistant at the University of Buenos Aires since 2012. All the positions were obtained by open and competitive selection processes. Check the [teaching](https://marisolosman.github.io/talks/) section for more details
+I have been appointed as Lecturer at the University of Buenos Aires in May 2024. In the past, I worked as Teaching Assistant. All the positions were obtained by open and competitive selection processes. Check the [teaching](https://marisolosman.github.io/talks/) section for more details
 
 ### Lecturer in short courses (by invitation)
 
-- Lecturer in the “South American School on Predictability and Prediction on Subseasonal Timescales” organized by the WMO. Paraguay 10/07/2017 al 14/07/2017.
+- Lecturer in the “Workshop on Subseasonal Prediction” organized by SISSA project under the Regional Climate Center for Souther South America. Buenos Aires, Argentina. 18/03/2024 al 22/04/2024.
 
 - Lecturer in the “10 International Training Workshop. Theme: Subseasonal to seasonal forecasting” organized by NOAA-USAID. Guayaquil, Ecuador. 9/07/2018 al 20/07/2018.
+
+- Lecturer in the “South American School on Predictability and Prediction on Subseasonal Timescales” organized by the WMO. Paraguay 10/07/2017 al 14/07/2017.
   
 ## Student Supervision
 
-- Luciano Andrian. Master Student at UBA. Thesis title: Study of seasonal variations of climate predictability on seasonal timescales over South America.
+### Current Students
 
-- Nahuel Gomez. Master Student at UBA. Thesis title: Dynamic of the Antarctic Sudden Stratospheric Warming in 2019 and its comparison with the 2002 event.
+- Luciano Andrian is a PhD student working on the combine influence of ENSO and other climate patterns on South America climate on interannual timescales. Co-supervisor: Carolina Vera.
 
-- Lucía Castro. Master Student at UBA. Thesis title: Assessment of the forecast performance of weekly temperature anomalies during the warm season by the SubX models.
+- Nahuel Gomez is a PhD student working on the stratospheric-tropospheric coupling in the Southern Hemisphere. Co-supervisor: Carolina Vera.
+
+- Marco Micieli is a Master student working on topological analysis of the dynamics of the subpolar jet in Southern South America. Supervisor: Denise Sciamarella.
+
+### Past Students
+
+- I have supervised 3 Master students and co-supervised 1 Master student at UBA.
+- I have co-supervised a Bachelor student at KIT.
+- I have co-supervised a Master student at KIT.
 
 ## Projects
 
@@ -95,6 +105,10 @@ I signed an agreement with the Argentine Meteorological Service to implement the
 - Reviewer of the First Order Draft and Second Order Draft of the IPCC WGI AR6.
 
 ## Other Activities
+
+- Member of the Working Group on Subseasonal Applications in Agriculture and Environment of the World Weather Research Programme.
+
+- Member of the Working Group on (Subseasonal to Interdecadal Climate Prediction)[https://www.wcrp-esmo.org/working-groups/wgsip] of the World Climate Research Programme. 
 
 - Joint Monthly Climate Briefings: In collaboration with the Argentina National Weather Service (SMN) the Department of Atmospheric and Ocean Science (DCAO) and CIMA I co-organize the joint  CIMA-DCAO-SMN monthly climate briefing to present and discuss with the academic and operational weather and climate community the past climate conditions responsible for the climate anomalies observed in Argentina and South America. I participate and co-organize this activity since August 2011.
 
