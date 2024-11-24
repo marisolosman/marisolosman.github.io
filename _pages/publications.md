@@ -22,7 +22,13 @@ author_profile: true
   {% assign current_year = post_year %}
   {% endif %}
   
-  <!-- Render the publication -->
-  {% include archive-single.html %}
+  <!-- Highlight your name -->
+  {% assign highlighted_title = post.title | replace: "M. Osman", "<u>M. Osman</u>" | replace: "Marisol Osman", "<u>Marisol Osman</u>" %}
+  
+  <!-- Render the publication with the highlighted name -->
+  <div>
+    <p>{{ highlighted_title }}</p>
+  </div>
 {% endfor %}
+
 
