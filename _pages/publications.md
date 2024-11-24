@@ -23,7 +23,7 @@ author_profile: true
   {% endif %}
   
   <!-- Highlight your name -->
-  {% assign highlighted_title = post.title | replace: "M. Osman", "<u>M. Osman</u>" | replace: "Marisol Osman", "<u>Marisol Osman</u>" %}
+  {% assign highlighted_title = post.content | replace: "M Osman", "<u>M Osman</u>" | replace: "Osman", "<u>Osman</u>" | replace: "Marisol Osman", "<u>Marisol Osman</u>" %}
   
   <!-- Render the publication with the highlighted name -->
   <div>
