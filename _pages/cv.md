@@ -108,7 +108,7 @@ I signed an agreement with the Argentine Meteorological Service to implement the
 
 - Member of the Working Group on Subseasonal Applications in Agriculture and Environment of the World Weather Research Programme.
 
-- Member of the Working Group on (Subseasonal to Interdecadal Climate Prediction)[https://www.wcrp-esmo.org/working-groups/wgsip] of the World Climate Research Programme. 
+- Member of the Working Group on [Subseasonal to Interdecadal Climate Prediction](https://www.wcrp-esmo.org/working-groups/wgsip) of the World Climate Research Programme. 
 
 - Joint Monthly Climate Briefings: In collaboration with the Argentina National Weather Service (SMN) the Department of Atmospheric and Ocean Science (DCAO) and CIMA I co-organize the joint  CIMA-DCAO-SMN monthly climate briefing to present and discuss with the academic and operational weather and climate community the past climate conditions responsible for the climate anomalies observed in Argentina and South America. I participate and co-organize this activity since August 2011.
 
