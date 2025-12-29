@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 {: style="text-align: justify" }
-Welcome to my website. I am [Associate Researcher at Centro de Investigaciones del Mar y la Atmósfera](http://www.cima.fcen.uba.ar/personal.php?p=I) and Professor at the [Departamento de Ciencias de la Atmósfera, Universidad de Buenos Aires](http://www.at.fcen.uba.ar) in Buenos Aires, Argentina. I hold PhD and Diploma degrees from the Department of Meteorology at the University of Buenos Aires.
+Welcome to my website! I am Associate Researcher at [Centro de Investigaciones del Mar y la Atmósfera](http://www.cima.fcen.uba.ar/personal.php?p=I) and Professor at the [Departamento de Ciencias de la Atmósfera, Universidad de Buenos Aires](http://www.at.fcen.uba.ar) in Buenos Aires, Argentina. I hold PhD and Diploma degrees from the Department of Meteorology at the University of Buenos Aires.
 
 {: style="text-align: justify" }
-My [research](https://marisolosman.github.io/research/) mainly focuses on variability, predictability and prediction skill on subseasonal and seasonal timescales, including the applications of forecast products in different economic sectors, such as agriculture and energy and the development of forecast tools.
+My [research](https://marisolosman.github.io/research/) mainly focuses on variability, predictability and prediction skill on subseasonal and seasonal timescales, including the applications of forecast products in different economic sectors, such as agriculture and energy, and the development of forecast tools.
 
 About me
 ======

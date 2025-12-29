@@ -24,6 +24,15 @@ This page lists selected activities, interviews and articles where I have provid
 
 ## Interviews and media appearances
 
+* [¿Llueve más en el país? Qué dicen los expertos sobre las feroces tormentas que afectaron Bahía Blanca y el norte bonaerense](https://www.lanacion.com.ar/sociedad/llueve-mas-en-el-pais-que-dicen-los-expertos-sobre-las-feroces-tormentas-que-afectaron-bahia-blanca-nid20052025/). La Nación. Mayo 2025
+
+* [Episodio 9: Marisol Osman, Climatóloga] (https://qulta.ar/podcast/marisol-osman-climatologa-modern-bay-ep-9-t3/). Modern Bay Podcast. Qulta.ar. Marzo 2025
+
+* [El cambio climático y la inundación en Bahía Blanca](https://universidadcalf.com/destacados/el-cambio-climatico-y-la-inundacion-en-bahia-blanca/). Radio universidad calf. Marzo 2025.
+
+* [Verdad, consecuencias](https://nexciencia.exactas.uba.ar/temporal-inundaciones-bahia-blanca-cambio-climatico-calentamiento-global-lluvias-precipitaciones-marisol-osman). NEX Ciencia. Marzo 2025.
+* [Inundaciones en Bahía Blanca](https://youtu.be/M90b_sWPqz0?si=ww6Mj1ptnA3qOk0M). FM de la calle. Marzo 2025.
+
 * ["Pronóstico estacional"](https://youtu.be/wOD2tOk4NLI?si=SwVyMrP7j-EeCieb). Fenómenos. September 2024.
 
 * ["La inteligencia artificial irrumple en la meteorología"](https://www.clarin.com/revista-n/podemos-predecir-cambio-climatico-inteligencia-artificial-irrumpe-metereologia_0_chsBY1dKhg.html?srsltid=AfmBOopZPgnf51EDwCAxBwav3SXYl8i5a7CDISWPm-ZaJ75Hv0iq9Q30). Clarín. May 2024.

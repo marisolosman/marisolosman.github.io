@@ -31,9 +31,17 @@ Check the [publications](https://marisolosman.github.io/publications/) for more 
 
 ## Book Chapters
 
+- Risbey JS, Barnes MA, Monselesan DP, et al. Meteorology of the Southern Hemisphere Extratropics. In: Taschetto AS, Ndarana T, Ambrizzi T, eds. Meteorology and Climate of the Southern Hemisphere. Cambridge University Press; 2025:190-240. 
+
 - Ruiz, J., Aldeco L., Diehl A., García Skabar Y., Matsudo C., Osman M., Peloroso L., Saulo. C., Vera C. Cap 37: Aplicaciones en Argentina. Física del Caos en la Predicción Meteorológica. Ed. Carlos Santos Burguete. Agencia Estatal de Meteorología de España. DOI: 10.31978/014-18-009-X.[URL](http://www.aemet.es/es/conocermas/recursos_en_linea/publicaciones_y_estudios/publicaciones/detalles/Fisica_del_caos_en_la_predicc_meteo)
 
 ## Technical Reports
+
+- Osman, M., Bodnariuk, N., Solman, S., Coppola, E., & Faranda, D. (2024). Heavy rain in March 2025 Argentina floods mostly strengthened by human-driven climate change. ClimaMeter, Institut Pierre Simon Laplace, CNRS. https://zenodo.org/records/15005894.
+
+- Castro, L. M., Godoy, A., Osman M., Spennemann P., 2025: Evaluación de productos de ECMWF para extremos de temperatura durante un evento de ola de calor en Argentina. Nota Técnica SMN 2025-197.
+
+- Ramon de Elia, Thomas Haiden, Cynthia Matsudo, Federico Otero, Estibaliz Gascon, Lucia Castro, Linus Magnusson, Alejandro Godoy, Caio Coelho, Hernan Bechis, Barbara Casati, Daniela D'Amen, Ariane Frassoni, Santiago Galgano, Marisol Osman, Soledad Osores, Silvina Righetti, Paola Salio, Marcus Saucedo, Yanina Skabar, Pablo Spennemann, Jose Stella, Nils Wedi (2025). Verification of global and regional NWP models over South America. ECMWF Technical Memoranda, 928, doi: 10.21957/85fc99659c.
 
 - Gustavo Naumann, and co-authors. "Extreme and long-term drought in the La Plata Basin: event evolution and impact assessment until September 2022".Publications Office of the European Union. 2023. ISBN 978-92-76-61614-6.
 
@@ -65,11 +73,14 @@ I have been appointed as Lecturer at the University of Buenos Aires in May 2024.
 
 - Nahuel Gomez is a PhD student working on the stratospheric-tropospheric coupling in the Southern Hemisphere. Co-supervisor: Carolina Vera.
 
-- Marco Micieli is a Master student working on topological analysis of the dynamics of the subpolar jet in Southern South America. Supervisor: Denise Sciamarella.
+- Marco Micieli is a PhD student working on weather regimes and topological analysis. Supervisor: Denise Sciamarella.
+
+- Diego Picasso is a Master student working on the analysis of a snow storm event in Patagonia and its predictability. Co-supervisor: Alejandro Godoy.
 
 ### Past Students
 
-- I have supervised 3 Master students and co-supervised 1 Master student at UBA.
+- I have co-supervised 1 PhD student at UBA.
+- I have supervised 3 Master students and co-supervised 2 Master student at UBA.
 - I have co-supervised a Bachelor student at KIT.
 - I have co-supervised a Master student at KIT.
 
@@ -105,6 +116,10 @@ I signed an agreement with the Argentine Meteorological Service to implement the
 - Reviewer of the First Order Draft and Second Order Draft of the IPCC WGI AR6.
 
 ## Other Activities
+
+- Member of the World Meteorological Organization Study Group on Renewable Energy Generation.
+
+- Member of the Steering Group of the Atmospheric Processes and their Role in Climate (APARC) projectof the World Climate Research Programme.
 
 - Member of the Working Group on Subseasonal Applications in Agriculture and Environment of the World Weather Research Programme.
 
