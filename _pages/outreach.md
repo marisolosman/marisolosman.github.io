@@ -26,7 +26,7 @@ This page lists selected activities, interviews and articles where I have provid
 
 * [¿Llueve más en el país? Qué dicen los expertos sobre las feroces tormentas que afectaron Bahía Blanca y el norte bonaerense](https://www.lanacion.com.ar/sociedad/llueve-mas-en-el-pais-que-dicen-los-expertos-sobre-las-feroces-tormentas-que-afectaron-bahia-blanca-nid20052025/). La Nación. Mayo 2025
 
-* [Episodio 9: Marisol Osman, Climatóloga] (https://qulta.ar/podcast/marisol-osman-climatologa-modern-bay-ep-9-t3/). Modern Bay Podcast. Qulta.ar. Marzo 2025
+* [Episodio 9: Marisol Osman, Climatóloga](https://qulta.ar/podcast/marisol-osman-climatologa-modern-bay-ep-9-t3/). Modern Bay Podcast. Qulta.ar. Marzo 2025
 
 * [El cambio climático y la inundación en Bahía Blanca](https://universidadcalf.com/destacados/el-cambio-climatico-y-la-inundacion-en-bahia-blanca/). Radio universidad calf. Marzo 2025.
 
