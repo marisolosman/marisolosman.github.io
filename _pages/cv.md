@@ -55,7 +55,7 @@ Please check the [talks](https://marisolosman.github.io/talks/) section for more
  
 ## Teaching
 
-I have been appointed as Lecturer at the University of Buenos Aires in May 2024. In the past, I worked as Teaching Assistant. All the positions were obtained by open and competitive selection processes. Check the [teaching](https://marisolosman.github.io/talks/) section for more details
+I have been appointed as Lecturer at the University of Buenos Aires in May 2024. In the past, I worked as Teaching Assistant. All the positions were obtained by open and competitive selection processes. Check the [teaching](https://marisolosman.github.io/teaching/) section for more details
 
 ### Lecturer in short courses (by invitation)
 

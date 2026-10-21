@@ -66,6 +66,12 @@
   }
 }
 
+.archive__item-citation {
+  font-size: 0.85em; // ~15px, was a fixed 18px
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;

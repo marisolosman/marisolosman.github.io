@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Dr. Marisol Osman"
 title_separator          : "-"
 name                     : &name "Marisol Osman"
-description              : &description "personal description"
+description              : &description "Climate scientist working on subseasonal to decadal climate prediction and climate services for South America"
 url                      : https://marisolosman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marisolosman/marisolosman.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Marisol Osman"
   avatar           : "profile.jpg"
-  bio              : "Climate Resarcher"
+  bio              : "Climate Researcher"
   location         : "Buenos Aires, Argentina"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@marisol_osman"
+  twitter          : "marisol_osman"
   vine             :
   weibo            :
   xing             :

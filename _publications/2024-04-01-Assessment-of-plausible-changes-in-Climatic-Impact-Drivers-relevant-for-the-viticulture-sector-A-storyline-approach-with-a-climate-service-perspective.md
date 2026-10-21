@@ -4,5 +4,6 @@ collection: publications
 permalink: /publication/2024-04-01-Assessment-of-plausible-changes-in-Climatic-Impact-Drivers-relevant-for-the-viticulture-sector-A-storyline-approach-with-a-climate-service-perspective
 date: 2024-04-01
 venue: 'Climate Services'
+paperurl: 'https://doi.org/10.1016/j.cliser.2024.100480'
 citation: ' J. Mindlin,  C. Vera,  T. Shepherd,  F. Doblas-Reyes,  N. Gonzalez-Reviriego,  M. Osman,  M. Terrado, &quot;Assessment of plausible changes in Climatic Impact-Drivers relevant for the viticulture sector: A storyline approach with a climate service perspective.&quot; Climate Services, 2024.'
 ---
