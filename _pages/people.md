@@ -28,7 +28,7 @@ I supervise undergraduate (Licenciatura), MSc and PhD students at the Department
 | Marco Micieli | Licenciatura, UBA | Mar 2025 | Denisse Sciamarella (supervisor) | |
 | Judith Gerighausen | MSc in Physics, KIT | May 2024 | Joshua Dorrington, Christian Grams | [Gerighausen et al. 2025, Meteorol. Appl.](https://doi.org/10.1002/met.70099) |
 | Carla Viazzo | Licenciatura, UBA | Apr 2024 | Emilio Bianchi (supervisor) | [Viazzo et al. 2025, Int. J. Climatol.](https://doi.org/10.1002/joc.8922) |
-| Lucía Castro | Licenciatura, UBA | Oct 2023 | | SMN Technical Note 2025-197 |
+| Lucía Castro | Licenciatura, UBA | Oct 2023 | Mariano Alvarez| |
 | Thomas Renkhoff | BSc in Meteorology, KIT | Oct 2022 | Christian M. Grams (supervisor) | |
 | Luciano Andrián | Licenciatura, UBA | Mar 2021 | Carolina Vera | [Andrian et al. 2023, Clim. Dyn.](https://doi.org/10.1007/s00382-022-06506-8) |
 | Nahuel Gómez | Licenciatura, UBA | Mar 2021 | Carolina Vera | |
