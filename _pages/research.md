@@ -149,7 +149,4 @@ Key papers:
 - Thomasz, Corfield, Vilker & Osman (2023). Forecasting soybean production to enhance climate services for agriculture in Argentina. *Climate Services*. [doi](https://doi.org/10.1016/j.cliser.2023.100341)
 - Osman, Bodnariuk, Solman, Coppola & Faranda (2025). Heavy rain in March 2025 Argentina floods mostly strengthened by human-driven climate change. *ClimaMeter*. [doi](https://doi.org/10.5281/zenodo.15005894)
 
-## Current directions
 
-{: style="text-align: justify" }
-As a member of the WCRP Working Group on Subseasonal to Interdecadal Prediction (WGSIP), I am increasingly interested in bridging timescales: how the sources of predictability studied on weeks to seasons carry over to multi-year and decadal predictions for South America, and how initialized predictions and climate projections can be combined into seamless climate information. With colleagues in the TeMPlex project, I am also exploring topological methods to describe the dynamics of the Southern Hemisphere circulation, and I follow closely how data-driven forecast models can complement physical models in subseasonal and seasonal prediction.
